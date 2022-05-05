@@ -1,1 +1,1 @@
-# Airbnb-Starter
+This is just a practice repository using Mumbai network for Matic, Moralis and React to replicate a small version of AirBNB with web3
